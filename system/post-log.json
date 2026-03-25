@@ -1,0 +1,66 @@
+{
+  "posts": [
+    {
+      "id": "7611255148362485006",
+      "url": "https://www.tiktok.com/@m_d_o_p_s/photo/7611255148362485006",
+      "hook": "You're not getting left on read and it's not your editing",
+      "template": "compare",
+      "hook_frame": "legacy",
+      "story_engine": "legacy",
+      "viewer_id": "legacy",
+      "numeric_type": "legacy",
+      "cta_angle": "legacy",
+      "account": "@m_d_o_p_s",
+      "posted": true,
+      "images": [],
+      "notes": "Early version — problemstack-style hook. This style was later killed. No blueprint archived."
+    },
+    {
+      "id": "7611247711559503118",
+      "url": "https://www.tiktok.com/@m_d_o_p_s/photo/7611247711559503118",
+      "hook": "Clipping campaigns pay you $1 per 1k views. Here's what pays $5k/month instead",
+      "template": "compare",
+      "hook_frame": "gap",
+      "story_engine": "broken-system",
+      "viewer_id": "dreamer",
+      "numeric_type": "money",
+      "cta_angle": "proof-page",
+      "account": "@m_d_o_p_s",
+      "posted": true,
+      "images": [],
+      "notes": "Number-led compare hook. Stronger format. No blueprint archived."
+    },
+    {
+      "id": "7611697641017183502",
+      "url": "https://www.tiktok.com/@m_d_o_p_s/photo/7611697641017183502",
+      "hook": "$5k/month in 90 days — no audience needed",
+      "template": "compare",
+      "hook_frame": "envy",
+      "story_engine": "broken-system",
+      "viewer_id": "dreamer",
+      "numeric_type": "money",
+      "cta_angle": "proof-page",
+      "account": "@m_d_o_p_s",
+      "posted": true,
+      "images": ["flex/p07a.jpg", "grind/g24a.jpg", "grind/g24f.jpg", "grind/g24b.jpg", "luxury/p03b.jpg", "luxury/p05c.jpg"],
+      "grok_batch": "2026-02-27",
+      "notes": "Flow A — old hustle vs retainer model."
+    },
+    {
+      "id": "7611700387183086862",
+      "url": "https://www.tiktok.com/@m_d_o_p_s/photo/7611700387183086862",
+      "hook": "$45,000 in 36 hours posting faceless slideshows",
+      "template": "listicle",
+      "hook_frame": "envy",
+      "story_engine": "broken-system",
+      "viewer_id": "dreamer",
+      "numeric_type": "money",
+      "cta_angle": "no-screenshots",
+      "account": "@m_d_o_p_s",
+      "posted": true,
+      "images": ["flex/p15a.jpg", "grind/g24d.jpg", "grind/g24e.jpg", "luxury/p01a.jpg", "luxury/p05b.jpg"],
+      "grok_batch": "2026-02-27",
+      "notes": "Flow C — 3 tips listicle. CTA fell back to p05b.jpg (p05e was ghost)."
+    }
+  ]
+}

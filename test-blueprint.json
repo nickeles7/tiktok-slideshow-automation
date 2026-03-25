@@ -1,0 +1,37 @@
+{
+  "angle_id": "t01-a",
+  "cta_image": "profile-stats",
+  "images": [
+    "grind/p04a.jpg",
+    "flex/p08a.jpg",
+    "luxury/p05b.jpg",
+    "flex/p06b.jpg",
+    "luxury/p16a.jpg"
+  ],
+  "slides": [
+    {
+      "role": "hook",
+      "text": "The DM that landed me 3 retainers this month"
+    },
+    {
+      "role": "tip",
+      "header": "Step 1: Find the right creators",
+      "body": "Look for creators posting daily who have 10k-100k followers. They need clippers but can't afford agencies yet. These are your goldmine."
+    },
+    {
+      "role": "transition",
+      "header": "But here's where most clippers fail",
+      "body": "They send a generic DM with no proof. No clips, no stats, no portfolio. Would you hire someone who can't show their work?"
+    },
+    {
+      "role": "value",
+      "header": "The move that changes everything",
+      "body": "Clip their content for free. Send them the finished edit with your stats attached. Let the work speak for itself."
+    },
+    {
+      "role": "cta",
+      "header": "This is what they see when you send your link",
+      "body": "Build yours free at NextClip.me"
+    }
+  ]
+}

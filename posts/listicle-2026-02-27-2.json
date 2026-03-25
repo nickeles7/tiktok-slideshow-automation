@@ -1,0 +1,40 @@
+{
+  "angle_id": "listicle-2026-02-27-2",
+  "template": "listicle",
+  "cta_image": "profile-stats",
+  "caption": "most people never figure out #3 👇 #grindset #hopecore #monetize #motivationslideshow #facelesstiktok",
+  "images": [
+    "flex/p15a.jpg",
+    "grind/g24d.jpg",
+    "grind/g24e.jpg",
+    "luxury/p01a.jpg",
+    "luxury/p05e.jpg"
+  ],
+  "slides": [
+    {
+      "role": "hook",
+      "text": "*$45,000* in *36* hours\nposting faceless slideshows"
+    },
+    {
+      "role": "tip-1",
+      "header": "1. Stop Chasing Views",
+      "body": "The algorithm decides what you earn and changes the rules whenever it wants. People making real money online don't depend on platforms paying them — they get paid by clients directly."
+    },
+    {
+      "role": "tip-2",
+      "header": "2. Edit for People, Not Platforms",
+      "body": "Creators and streamers need their long content cut into short clips daily. They pay *$1–$3* per *1k* views. No followers needed. Just a phone and consistency."
+    },
+    {
+      "role": "tip-3",
+      "header": "3. Prove Your Reach Instantly",
+      "body": "Creators get *50* DMs a day from people who want to clip for them. The ones who get hired show their stats in one link. No screenshots. No back-and-forth."
+    },
+    {
+      "role": "cta",
+      "header": "Build Your Proof Page Free",
+      "body": "One link. All your stats.\nSend it to any creator.",
+      "url": "https://nextclip.me"
+    }
+  ]
+}

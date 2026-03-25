@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "posts_per_day": 5,
+  "nextclip_assets": {
+    "DM-profile": "../assets/nextclip/DM-profile.png",
+    "loggedin": "../assets/nextclip/loggedin.png",
+    "loggedout": "../assets/nextclip/loggedout.png"
+  },
+  "image_categories": ["grind", "luxury", "flex"],
+  "hashtag_strategy": {
+    "updated": "2026-02-27",
+    "required": ["#usenextclip", "#nextclip", "#clippers", "#clipping"],
+    "primary": ["#grindset", "#hopecore", "#motivationslideshow"],
+    "trending_overlap": ["#monetize"],
+    "broad_reach": ["#facelesstiktok", "#luxurylifestyle"],
+    "avoid": ["#sidehustle", "#makemoneyonline"],
+    "recommended_combo": "#usenextclip #nextclip #clippers #clipping #grindset #hopecore #monetize #motivationslideshow #facelesstiktok",
+    "notes": "Required tags go on every post. Primary tags are slideshow-heavy (40-70%). Trending tags confirmed from TikTok Creative Center US top 100. Avoid tags are video-dominated (3-6% slideshow)."
+  },
+  "caption_rules": {
+    "max_lines": 4,
+    "notes": "Keep captions short — longer captions push TikTok's UI overlay higher and cover rendered slide content. 4 lines max including hashtags."
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "compare",
+  "name": "Compare — Bad Method vs Better Method",
+  "slide_count": 6,
+  "description": "Show the common/easy path, expose why it sucks, then reveal the better path. The CTA is the tool that makes the better path possible. Works best for topics where people are stuck on an inferior strategy.",
+  "audience_strategy": {
+    "funnel": "progressive-reveal",
+    "slides_1_2": "Fully broad — money, results, lifestyle. No mention of clipping. Hook anyone scrolling side hustle / make money content.",
+    "slide_3": "Introduce the concept — 'people are getting paid to edit creators' content into short videos'. Viewer learns WHAT this is.",
+    "slides_4_5_6": "Full niche — clipping specifics, retainers, strategies. Bridge to NextClip CTA."
+  },
+  "story_engines": {
+    "broken-system": {
+      "arc": "Old way (platform payouts) fails → expose the pain → new way (retainers) → why it works → CTA",
+      "method-1": "Present the common platform-dependent path (creator fund, ad revenue, algorithm prayer)",
+      "pain": "Show real platform failures with data, then introduce clipping as the contrast",
+      "method-2": "Retainer model as the fix — skip the platform, bill the creator"
+    },
+    "hidden-path": {
+      "arc": "Obvious hustle everyone knows → why nobody talks about this one → the hidden method → proof it works → CTA",
+      "method-1": "Present the side hustles everyone's heard of (dropshipping, courses, social media marketing)",
+      "pain": "Those are saturated / require capital / take months. Meanwhile there's a niche nobody talks about",
+      "method-2": "Reveal clipping as the hidden path — what it is, how it works, why it's under the radar"
+    },
+    "upgrade": {
+      "arc": "You're already doing the work for free → pain (you're not getting paid) → same skill, paid → how to start → CTA",
+      "method-1": "Editing videos for fun, posting clips of your favorite creators, making fan edits for free",
+      "pain": "That exact skill pays $1,500/month per client. You're doing it for exposure instead of income",
+      "method-2": "Turn the same work into a retainer — weekly clips, monthly invoice, real income"
+    },
+    "origin": {
+      "arc": "Before ($0, no direction) → turning point (discovered clipping) → after (retainers, income) → what they did → CTA",
+      "method-1": "One person's starting point — broke, no skills, scrolling TikTok, maybe already editing casually",
+      "pain": "The moment they realized people get paid to do what they were already doing for free",
+      "method-2": "The steps they took — first client, first retainer, scaling to $X/month"
+    }
+  },
+  "example_post": "samplepost/post1",
+  "slides": [
+    {
+      "slot": 1,
+      "role": "hook",
+      "max_lines": 2,
+      "background": "hopecore",
+      "intent": "2 lines MAX. Must hook ANYONE scrolling — not clippers. No niche jargon. Lead with money, results, or a provocative claim. Use outsider-friendly numbers from Grok data. This should stop a side hustle scroller, not just a clipper.",
+      "example": "$5k/month editing videos. No audience needed."
+    },
+    {
+      "slot": 2,
+      "role": "method-1",
+      "background": "hopecore",
+      "intent": "Present the common/easy way people try to make money with content online. Frame BROADLY — chasing platform payouts, ad revenue, creator funds. The viewer should recognize this as something they've seen or tried. No clipping jargon yet.",
+      "example": "Most people try to make money posting content and pray the algorithm pays them. TikTok Creator Fund. YouTube ad revenue. Some months you eat. Most months you wonder why you bother."
+    },
+    {
+      "slot": 3,
+      "role": "pain",
+      "background": "hopecore",
+      "intent": "Expose why method 1 fails. Use real frustrations from Grok data but translate to broad language. Introduce the concept of clipping here — 'people are editing creators' content into short clips and getting paid directly.' The viewer learns what this world is.",
+      "example": "54M views and TikTok paid someone 28 cents. Meanwhile people editing short clips for creators are getting paid $1,500/month per client. No algorithm. No prayer."
+    },
+    {
+      "slot": 4,
+      "role": "method-2",
+      "background": "hopecore",
+      "intent": "Full niche reveal. Explain how clipping retainers work. Name the strategy. This is the 'what smart people do' slide. Insider knowledge is fine now — the viewer has been introduced.",
+      "example": "Get a retainer deal with a creator. You clip their content weekly. They pay you monthly. 2-3 clients and you're clearing $5k/month."
+    },
+    {
+      "slot": 5,
+      "role": "why-it-works",
+      "background": "hopecore",
+      "intent": "Why this is accessible RIGHT NOW. Most people doing it suck, market is growing, low bar to stand out. Bridge naturally to needing proof/resume/portfolio.",
+      "example": "Every podcast, every streamer, every brand wants short-form clips daily. Most people who reach out have zero proof they can deliver. Stand out and you're in."
+    },
+    {
+      "slot": 6,
+      "role": "cta",
+      "background": "nextclip",
+      "intent": "NextClip as the natural tool. Product screenshot with one clear line. Feels like the obvious next step, not an ad.",
+      "example": "Build your proof page. Show your stats. Send it to creators. nextclip.me"
+    }
+  ]
+}

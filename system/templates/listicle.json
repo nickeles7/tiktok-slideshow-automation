@@ -1,0 +1,77 @@
+{
+  "id": "listicle",
+  "name": "Listicle — N Things That Work",
+  "slide_count": 5,
+  "description": "Promise N actionable things, deliver them, CTA is the tool behind one of them. Works best for broad advice topics where the last tip naturally bridges to NextClip.",
+  "audience_strategy": {
+    "funnel": "progressive-reveal",
+    "slides_1_2": "Fully broad — money, results, lifestyle. No mention of clipping. Hook anyone scrolling side hustle / make money content.",
+    "slide_3": "Introduce the concept — 'people are getting paid to edit short clips for creators'. Viewer learns WHAT this is.",
+    "slides_4_5": "Full niche — clipping specifics, strategies. Bridge to NextClip CTA."
+  },
+  "story_engines": {
+    "broken-system": {
+      "arc": "3 tips that expose why the old way fails, tip 3 = the fix → CTA",
+      "tip-1": "Stop chasing platform payouts — the algorithm controls your income",
+      "tip-2": "Introduce clipping as the alternative people are switching to",
+      "tip-3": "Prove your reach to stand out from the crowd → bridges to NextClip"
+    },
+    "hidden-path": {
+      "arc": "3 things nobody told you about making money online → each tip is a discovery → CTA",
+      "tip-1": "There's a niche most side hustle content never mentions",
+      "tip-2": "People are editing short clips for creators and getting paid directly — no audience needed",
+      "tip-3": "The ones getting hired have one thing: proof of reach → bridges to NextClip"
+    },
+    "upgrade": {
+      "arc": "3 upgrades that turned free work into income → CTA",
+      "tip-1": "You're already doing the work (editing, clipping, posting) — you're just not charging for it",
+      "tip-2": "Same skill, different framing: offer it as a service to creators who need daily clips",
+      "tip-3": "Package your stats into a proof page and send it → bridges to NextClip"
+    },
+    "origin": {
+      "arc": "3 steps one person took from $0 to $X → CTA",
+      "tip-1": "Where they started — no income, no audience, maybe just a phone",
+      "tip-2": "What they discovered — creators pay for short-form clips, and you don't need followers",
+      "tip-3": "How they closed clients — showed stats in one link instead of screenshots → bridges to NextClip"
+    }
+  },
+  "example_post": "samplepost/post3",
+  "slides": [
+    {
+      "slot": 1,
+      "role": "hook",
+      "max_lines": 2,
+      "background": "hopecore",
+      "intent": "2 lines MAX. Must hook ANYONE scrolling — not clippers. Promise a specific number of things. Lead with money or results. No niche jargon. Should stop someone browsing side hustle content.",
+      "example": "3 things separating $500/mo from $5k/mo online"
+    },
+    {
+      "slot": 2,
+      "role": "tip-1",
+      "background": "hopecore",
+      "intent": "First tip — broad and foundational. Frame as general online income advice that ANYONE can relate to. No clipping language. Talk about the mistake most people make chasing platform payouts or views. Header is the tip, body is the why.",
+      "example": "1. Stop chasing views — Views don't pay bills. The algorithm decides what you earn and changes the rules whenever it wants. People making real money online don't depend on platforms paying them."
+    },
+    {
+      "slot": 3,
+      "role": "tip-2",
+      "background": "hopecore",
+      "intent": "Second tip — introduce the method. This is where the viewer learns what clipping is. Frame it as a discovery: 'People are editing creators' long content into short clips and getting paid directly for it.' Still accessible, not insider.",
+      "example": "2. Edit for people, not platforms — Creators and streamers need their content cut into short clips daily. They'll pay someone $1,500/month to do it. You don't need followers. You need a skill."
+    },
+    {
+      "slot": 4,
+      "role": "tip-3",
+      "background": "hopecore",
+      "intent": "Third tip — now full niche. Bridges to NextClip. About proof, credibility, showing your work. Sets up the CTA naturally. Clipping language is fine here.",
+      "example": "3. Prove your reach instantly — Creators get 50 DMs a day from people who want to clip for them. The ones who get hired show their stats in one link. No screenshots. No trust required."
+    },
+    {
+      "slot": 5,
+      "role": "cta",
+      "background": "nextclip",
+      "intent": "NextClip product screenshot. Ties back to the last tip. The tool that makes tip 3 effortless.",
+      "example": "Build your proof page free. nextclip.me"
+    }
+  ]
+}

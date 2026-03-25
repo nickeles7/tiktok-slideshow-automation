@@ -1,0 +1,313 @@
+{
+  "zones": {
+    "top": "Text placed in upper 25% of image",
+    "center": "Text placed in middle 50% of image",
+    "bottom": "Text placed in lower 25% of image",
+    "top-left": "Text placed upper-left quadrant",
+    "top-right": "Text placed upper-right quadrant",
+    "bottom-left": "Text placed lower-left quadrant",
+    "bottom-right": "Text placed lower-right quadrant"
+  },
+  "brightness": {
+    "dark": "Image is mostly dark - white text works without gradient",
+    "mixed": "Image has both light and dark areas - needs gradient behind text",
+    "bright": "Image is mostly bright - needs strong gradient or dark text"
+  },
+  "images": {
+    "luxury/p01a.jpg": {
+      "zone": "top",
+      "brightness": "dark",
+      "notes": "Dark purple ceiling/wall area at top, room detail fills center+bottom"
+    },
+    "luxury/p03b.jpg": {
+      "zone": "top",
+      "brightness": "dark",
+      "notes": "Dark window/sky area at top, sofa+teddy bear in lower half"
+    },
+    "luxury/p03c.jpg": {
+      "zone": "top",
+      "brightness": "dark",
+      "notes": "Dark window area at top, sofa+bear+balloons fill bottom"
+    },
+    "grind/p04a.jpg": {
+      "zone": "top",
+      "brightness": "dark",
+      "notes": "Dark warm wall above monitors, desk setup fills center-bottom"
+    },
+    "grind/p04b.jpg": {
+      "zone": "top",
+      "brightness": "dark",
+      "notes": "Dark wall above monitors, setup below"
+    },
+    "grind/p04c.jpg": {
+      "zone": "top",
+      "brightness": "dark",
+      "notes": "Dark wall space above screens, desk fills bottom 2/3"
+    },
+    "luxury/p16b.jpg": {
+      "zone": "top",
+      "brightness": "mixed",
+      "notes": "Sunset sky with clouds at top, sofa+bear at bottom"
+    },
+    "flex/p08a.jpg": {
+      "zone": "top",
+      "brightness": "mixed",
+      "notes": "Buildings/sky at top, Lambo rear fills bottom half"
+    },
+    "flex/p08b.jpg": {
+      "zone": "top",
+      "brightness": "mixed",
+      "notes": "Greenery through windshield at top, steering wheel fills center-bottom"
+    },
+    "flex/p08c.jpg": {
+      "zone": "top",
+      "brightness": "dark",
+      "notes": "Dark night sky above Prada store, car+bags at bottom"
+    },
+    "flex/p09a.png": {
+      "zone": "top",
+      "brightness": "dark",
+      "notes": "Dark garage ceiling, black G-Wagon centered below"
+    },
+    "flex/p09b.png": {
+      "zone": "top",
+      "brightness": "dark",
+      "notes": "Dark night sky + city skyline at top, pink+red G-Wagons at bottom"
+    },
+    "flex/p09c.jpg": {
+      "zone": "top",
+      "brightness": "bright",
+      "notes": "Blue sky with clouds at top, two G-Wagons fill bottom half - needs gradient"
+    },
+    "flex/p11a.jpg": {
+      "zone": "top",
+      "brightness": "bright",
+      "notes": "Bright sky above mountains, red Porsche in center - needs gradient"
+    },
+    "flex/p11b.jpg": {
+      "zone": "top",
+      "brightness": "bright",
+      "notes": "Sun flare + mountains at top, red Porsche below - needs gradient"
+    },
+    "flex/p11c.jpg": {
+      "zone": "top",
+      "brightness": "bright",
+      "notes": "Hazy bright sky, red Porsche in center - needs gradient"
+    },
+    "flex/p15a.jpg": {
+      "zone": "top",
+      "brightness": "dark",
+      "notes": "Dark ornate building at top, black Bugatti fills bottom 2/3"
+    },
+    "flex/p15b.jpg": {
+      "zone": "top",
+      "brightness": "mixed",
+      "notes": "Cloudy sky + palms at top, black Rolls in lower half"
+    },
+    "flex/p15c.jpg": {
+      "zone": "top",
+      "brightness": "dark",
+      "notes": "Dark blue sky at top, mansion + cars at bottom"
+    },
+    "flex/p17a.jpg": {
+      "zone": "top",
+      "brightness": "mixed",
+      "notes": "Sunset sky at top, red Ferrari centered on rooftop parking"
+    },
+    "flex/p17b.jpg": {
+      "zone": "top",
+      "brightness": "mixed",
+      "notes": "Orange sunset sky at top, red Porsche in desert sand below center"
+    },
+    "flex/p06a.jpg": {
+      "zone": "top",
+      "brightness": "bright",
+      "notes": "Bright blue sky, turquoise water, jet ski pointing at yacht - needs gradient"
+    },
+    "flex/p06b.jpg": {
+      "zone": "top",
+      "brightness": "mixed",
+      "notes": "Cloudy sky at top, yacht+jet ski fills center-bottom"
+    },
+    "flex/p06d.jpg": {
+      "zone": "top",
+      "brightness": "mixed",
+      "notes": "Golden sunset sky at top, jet ski POV at bottom, feet visible"
+    },
+    "flex/p12a.jpg": {
+      "zone": "top",
+      "brightness": "mixed",
+      "notes": "Colorful sunset sky at top, jet ski fills bottom half"
+    },
+    "flex/p12b.jpg": {
+      "zone": "top",
+      "brightness": "mixed",
+      "notes": "Blue-orange sunset sky, jet ski centered with calm water"
+    },
+    "flex/p12c.jpg": {
+      "zone": "top",
+      "brightness": "mixed",
+      "notes": "Hazy sky + skyline at top, jet ski handlebars at bottom"
+    },
+    "flex/p18a.jpg": {
+      "zone": "top",
+      "brightness": "mixed",
+      "notes": "Dramatic sunset clouds at top, yacht centered on calm water"
+    },
+    "flex/p18b.jpg": {
+      "zone": "top",
+      "brightness": "bright",
+      "notes": "Blue sky + cliff at top-right, yacht wake fills center - needs gradient"
+    },
+    "flex/p18c.jpg": {
+      "zone": "top",
+      "brightness": "mixed",
+      "notes": "Rocky cliffs + sky at top, turquoise water + boat deck at bottom"
+    },
+    "flex/p23a.jpg": {
+      "zone": "top-left",
+      "brightness": "mixed",
+      "notes": "Sunset + yacht, food in foreground - top-left has open sky"
+    },
+    "flex/p23b.jpg": {
+      "zone": "top",
+      "brightness": "mixed",
+      "notes": "Yacht canopy + sunset sky at top, food spread fills bottom"
+    },
+    "flex/p23c.jpg": {
+      "zone": "top",
+      "brightness": "mixed",
+      "notes": "Canopy + green hillside at top, yacht breakfast table at bottom"
+    },
+    "flex/p07a.jpg": {
+      "zone": "top",
+      "brightness": "dark",
+      "notes": "Dark background at top, cash fan + iced watches fill center-bottom"
+    },
+    "flex/p07b.jpg": {
+      "zone": "top",
+      "brightness": "mixed",
+      "notes": "Couch cushions at top, hand holding banded cash stacks center"
+    },
+    "flex/p07c.jpg": {
+      "zone": "top",
+      "brightness": "dark",
+      "notes": "Dark upper area, two hands exchanging cash stacks below"
+    },
+    "flex/p07d.jpg": {
+      "zone": "top",
+      "brightness": "dark",
+      "notes": "Dark area above LV boxes, shopping haul fills bottom half with city window"
+    },
+    "flex/p10a.jpg": {
+      "zone": "top",
+      "brightness": "mixed",
+      "notes": "Seat back at top, Art of War book + Rolex wrist center, plane interior"
+    },
+    "flex/p14a.jpg": {
+      "zone": "top",
+      "brightness": "mixed",
+      "notes": "Blurred background at top, two iced AP watches on wrists center-bottom"
+    },
+    "flex/p14b.jpg": {
+      "zone": "top",
+      "brightness": "bright",
+      "notes": "White tablecloth + dinner scene, three wrists with Rolexes - needs gradient"
+    },
+    "flex/p14c.jpg": {
+      "zone": "top",
+      "brightness": "dark",
+      "notes": "Dark background at top, two wrists with iced watches + cash on table"
+    },
+    "grind/p22a.jpg": {
+      "zone": "top-right",
+      "brightness": "mixed",
+      "notes": "Monitor screen at top-right, LV bag + laptop center, plant left"
+    },
+    "luxury/p05b.jpg": {
+      "zone": "top",
+      "brightness": "dark",
+      "notes": "Dark night sky at top, YouTube play button + Vegas lights below"
+    },
+    "luxury/p05c.jpg": {
+      "zone": "top",
+      "brightness": "dark",
+      "notes": "Dark night sky at top, Dubai skyline fills bottom 60%"
+    },
+    "luxury/p05d.jpg": {
+      "zone": "top",
+      "brightness": "mixed",
+      "notes": "Hazy sunset sky at top, Dubai skyline with Burj Khalifa below"
+    },
+    "luxury/p19a.jpg": {
+      "zone": "top",
+      "brightness": "dark",
+      "notes": "Dark night sky at top, blue-lit infinity pool + city lights below"
+    },
+    "grind/g24a.jpg": {
+      "zone": "top",
+      "brightness": "dark",
+      "notes": "Dark ceiling + pendant lamp at top, laptop on table below, city night through windows"
+    },
+    "grind/g24b.jpg": {
+      "zone": "top",
+      "brightness": "dark",
+      "notes": "Dark wall above LED shelf, creator desk with camera+mic+monitor below"
+    },
+    "grind/g24c.jpg": {
+      "zone": "top",
+      "brightness": "mixed",
+      "notes": "Miami skyline at dusk through balcony, laptop+iPad+notebook on desk below"
+    },
+    "grind/g24d.jpg": {
+      "zone": "top",
+      "brightness": "mixed",
+      "notes": "Sunset sky through window at top, laptop+book on desk below"
+    },
+    "grind/g24e.jpg": {
+      "zone": "top",
+      "brightness": "dark",
+      "notes": "Dark wall+posters at top, triple screen desk setup (laptop+iPad+monitor) below"
+    },
+    "grind/g24f.jpg": {
+      "zone": "top",
+      "brightness": "dark",
+      "notes": "Dark night sky at top, laptop on balcony desk with city lights below"
+    },
+    "grind/g24g.jpg": {
+      "zone": "top",
+      "brightness": "dark",
+      "notes": "Dark sky through window at top, hotel bed + city night view below"
+    },
+    "grind/g24h.jpg": {
+      "zone": "top",
+      "brightness": "mixed",
+      "notes": "Dusk sky through floor-to-ceiling windows, penthouse couch+laptop+skyline"
+    },
+    "grind/g24i.jpg": {
+      "zone": "top",
+      "brightness": "mixed",
+      "notes": "Blue LED shelves at top, desk setup with 11:11 clock screen below"
+    },
+    "grind/g24j.jpg": {
+      "zone": "top",
+      "brightness": "dark",
+      "notes": "Dark wall at top, gaming desk with laptop+monitor+PS5+burger box below"
+    },
+    "grind/g24k.jpg": {
+      "zone": "top",
+      "brightness": "dark",
+      "notes": "Dark ceiling at top, closed MacBook+notebooks on desk, window to right"
+    },
+    "grind/g24l.jpg": {
+      "zone": "top",
+      "brightness": "dark",
+      "notes": "Dark cafe background at top, laptop+notebook+hand writing below, night window"
+    },
+    "grind/g24m.jpg": {
+      "zone": "top",
+      "brightness": "dark",
+      "notes": "Dark room at top, pro video editing setup with DaVinci Resolve, color wheels, 4 screens"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "angle_id": "compare-2026-02-27-1",
+  "template": "compare",
+  "cta_image": "profile-stats",
+  "caption": "the old way is broken. this is what's replacing it 👇 #grindset #hopecore #monetize #motivationslideshow #facelesstiktok",
+  "images": [
+    "flex/p07a.jpg",
+    "grind/g24a.jpg",
+    "grind/g24f.jpg",
+    "grind/g24b.jpg",
+    "luxury/p03b.jpg",
+    "luxury/p05c.jpg"
+  ],
+  "slides": [
+    {
+      "role": "hook",
+      "text": "*$5k/month* in *90* days\nno audience needed"
+    },
+    {
+      "role": "method-1",
+      "header": "The Old Way",
+      "body": "Post content. Pray the algorithm pays you. TikTok Creator Fund. YouTube ad revenue. Some months you eat. Most months you wonder why you bother."
+    },
+    {
+      "role": "pain",
+      "header": "*54M* Views = *¢28*",
+      "body": "That's what the platform paid one creator. Meanwhile people editing short clips for creators are getting paid *$1,500/month* per client. No algorithm. No prayer."
+    },
+    {
+      "role": "method-2",
+      "header": "The Better Way",
+      "body": "Get a retainer with a creator. Clip their content weekly. They pay you monthly. *2* clients and you're clearing *$3k–$5k/month*. No followers required."
+    },
+    {
+      "role": "why-it-works",
+      "header": "Why It Works Right Now",
+      "body": "Every podcast, streamer, and brand wants short clips daily. Most people who reach out have zero proof they can deliver. Show your stats and you're already ahead of *99%*."
+    },
+    {
+      "role": "cta",
+      "header": "Build Your Proof Page",
+      "body": "Show creators your reach in one link.\nNo screenshots. No trust issues.",
+      "url": "https://nextclip.me"
+    }
+  ]
+}
